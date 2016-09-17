@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{24EEFE97-2526-CDC5-15AB-D4CEEC5EB382}") = "Cursed - Legend of The Crystal Sabre", "Assembly-CSharp-firstpass.csproj", "{5E5889B2-7217-FDD6-6B98-B120A315F9AA}"
+EndProject
+Project("{24EEFE97-2526-CDC5-15AB-D4CEEC5EB382}") = "Cursed - Legend of The Crystal Sabre", "Assembly-CSharp.csproj", "{1DCCB737-EDB1-5B5E-2DEA-DB885B003C07}"
+EndProject
+Project("{24EEFE97-2526-CDC5-15AB-D4CEEC5EB382}") = "Cursed - Legend of The Crystal Sabre", "Assembly-CSharp-Editor.csproj", "{76196C29-B68F-89B5-7FB3-69CF6F97FB7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5889B2-7217-FDD6-6B98-B120A315F9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5889B2-7217-FDD6-6B98-B120A315F9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5889B2-7217-FDD6-6B98-B120A315F9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5889B2-7217-FDD6-6B98-B120A315F9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCCB737-EDB1-5B5E-2DEA-DB885B003C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCCB737-EDB1-5B5E-2DEA-DB885B003C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCCB737-EDB1-5B5E-2DEA-DB885B003C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCCB737-EDB1-5B5E-2DEA-DB885B003C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76196C29-B68F-89B5-7FB3-69CF6F97FB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76196C29-B68F-89B5-7FB3-69CF6F97FB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76196C29-B68F-89B5-7FB3-69CF6F97FB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76196C29-B68F-89B5-7FB3-69CF6F97FB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
